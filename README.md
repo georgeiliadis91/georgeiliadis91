@@ -1,11 +1,11 @@
 ```js
 
 const readMePlease = {
-  greetings: "stranger 👋",
+  greetings: "friend 👋",
   iAm: "George Iliadis",
-  workAs: "Front end Reactjs developer",
-  with: "TypeScript, Redux and others.",
-  currently: "working in athens",
+  workAs: "Frontend developer",
+  with: "Reactjs, TypeScript, Redux and others.",
+  currently: "working in Athens, Greece",
   findMeOn: [{ website: "georgeiliadis.com" },{ twitter: "@geoili1" }, { linkedin: "www.linkedin.com/in/geoili" }],
 };
 
