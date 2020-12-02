@@ -1,4 +1,4 @@
-```js
+```ts
 
 const readMePlease = {
   greetings: "friend 👋",
