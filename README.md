@@ -3,8 +3,8 @@
 const readMe = {
   greetings: "friend 👋",
   iAm: "George Iliadis",
-  workAs: "Frontend Engineer",
-  with: "Reactjs, TypeScript, Redux and others.",
+  workAs: "Software Engineer",
+  with: "Anything web related and then some",
   currently: "working in Athens, Greece",
   findMeOn: [
     { website: "georgeiliadis.com" },
